@@ -1,4 +1,4 @@
-# quasar_cs1_project
+# Quasar - CS1 Final Project
 My final project for my CS1 class (CS 1050) in the spring 2020 semester. It aims to replicate the mini game Quasar (similar to blackjack) from the Mass Effect video games. It is an example of my early work while getting my BS in Computer Science, while
 taking my first programming class.
 
