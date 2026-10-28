@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=QuasarRandomizer
+comment0.text=\r\n\ QuasarRandomizer.java\r\n\ v1.0\r\n\ by\ SkyShep\r\n\ \r\n\ If\ there's\ a\ random\ number\ to\ be\ assigned,\ this\ class\ does\ it.\r\n\ Also\ keeps\ track\ of\ the\ running\ total\ of\ player\ points.\r\n
+comment1.params=
+comment1.target=int\ getInitial()
+comment2.params=
+comment2.target=void\ OnetoEight()
+comment3.params=
+comment3.target=void\ FourtoSeven()
+comment4.params=
+comment4.target=int\ getTotal()
+numComments=5

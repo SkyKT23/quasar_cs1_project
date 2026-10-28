@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuasarPayout
+comment0.text=\r\n\ QuasarPayout.java\r\n\ v1.0\r\n\ by\ SkyShep\r\n\ \r\n\ Class\ that\ controls\ the\ payout\ and\ money\ management\ for\ the\ game.\r\n
+comment1.params=bet
+comment1.target=void\ playerBet(double)
+comment2.params=total\ bet
+comment2.target=void\ payPlayer(int,\ double)
+comment3.params=
+comment3.target=double\ getPurse()
+numComments=4
